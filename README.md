@@ -80,7 +80,7 @@ El servidor estará disponible en `http://localhost:5000`
   game: ObjectId,
   author: String,
   text: String,
-  score: Number,  // 0-5
+  score: Number,  // 0-5 
   createdAt: Date
 }
 ```
