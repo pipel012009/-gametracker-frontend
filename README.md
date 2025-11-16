@@ -86,6 +86,7 @@ El servidor estará disponible en `http://localhost:5000`
 ```
 
 ## 🌱 Seed Database (Opcional)
+## Author: pipel012009
 
 Para poblar la base de datos con datos de ejemplo:
 ```bash
